@@ -1,0 +1,569 @@
+ <table border="2px" id="apyreport" class="table table-hover table-bordered text-center">
+      <thead>
+        <tr>
+          <th colspan="6"><p class=""><strong>Crop: <span id="selcrop">Bajra</span></strong></p></th>
+        </tr>
+        <tr>
+          <th rowspan="2">S.No.</th>
+          <th rowspan="2">State</th>
+          <th rowspan="2">District</th>
+                    <th rowspan="">2020 - 2021</th>
+                  <th rowspan="">2021 - 2022</th>
+                  <th rowspan="">2022 - 2023</th>
+        
+        </tr>
+        <tr>
+                    <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                </tr>
+      </thead>
+
+      <tbody>
+                    <tr>
+
+              <td>1</td>
+              <td>Tamil Nadu</td>
+
+              <td>The nilgiris</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                4.00
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>2</td>
+              <td>Tamil Nadu</td>
+
+              <td>Vellore</td>
+                            <td>
+                3.66
+              </td>
+                          <td>
+                2.68
+              </td>
+                          <td>
+                3.67
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>3</td>
+              <td>Tamil Nadu</td>
+
+              <td>Cuddalore</td>
+                            <td>
+                3.26
+              </td>
+                          <td>
+                3.63
+              </td>
+                          <td>
+                3.46
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>4</td>
+              <td>Tamil Nadu</td>
+
+              <td>Villupuram</td>
+                            <td>
+                2.55
+              </td>
+                          <td>
+                3.56
+              </td>
+                          <td>
+                3.48
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>5</td>
+              <td>Tamil Nadu</td>
+
+              <td>Tirupathur</td>
+                            <td>
+                3.12
+              </td>
+                          <td>
+                3.19
+              </td>
+                          <td>
+                3.38
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>6</td>
+              <td>Tamil Nadu</td>
+
+              <td>Virudhunagar</td>
+                            <td>
+                2.69
+              </td>
+                          <td>
+                3.28
+              </td>
+                          <td>
+                3.27
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>7</td>
+              <td>Tamil Nadu</td>
+
+              <td>Ariyalur</td>
+                            <td>
+                3.12
+              </td>
+                          <td>
+                3.24
+              </td>
+                          <td>
+                3.16
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>8</td>
+              <td>Tamil Nadu</td>
+
+              <td>Tiruvannamalai</td>
+                            <td>
+                3.21
+              </td>
+                          <td>
+                2.16
+              </td>
+                          <td>
+                2.01
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>9</td>
+              <td>Tamil Nadu</td>
+
+              <td>Madurai</td>
+                            <td>
+                3.21
+              </td>
+                          <td>
+                2.89
+              </td>
+                          <td>
+                2.85
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>10</td>
+              <td>Tamil Nadu</td>
+
+              <td>Sivaganga</td>
+                            <td>
+                3.00
+              </td>
+                          <td>
+                2.40
+              </td>
+                          <td>
+                2.33
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>11</td>
+              <td>Tamil Nadu</td>
+
+              <td>Nagapattinam</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                2.75
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>12</td>
+              <td>Tamil Nadu</td>
+
+              <td>Dharmapuri</td>
+                            <td>
+                2.62
+              </td>
+                          <td>
+                2.51
+              </td>
+                          <td>
+                2.72
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>13</td>
+              <td>Tamil Nadu</td>
+
+              <td>Krishnagiri</td>
+                            <td>
+                2.64
+              </td>
+                          <td>
+                2.50
+              </td>
+                          <td>
+                2.72
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>14</td>
+              <td>Tamil Nadu</td>
+
+              <td>Thenkasi</td>
+                            <td>
+                2.16
+              </td>
+                          <td>
+                2.44
+              </td>
+                          <td>
+                2.69
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>15</td>
+              <td>Tamil Nadu</td>
+
+              <td>Chengalpattu</td>
+                            <td>
+                2.38
+              </td>
+                          <td>
+                2.47
+              </td>
+                          <td>
+                2.69
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>16</td>
+              <td>Tamil Nadu</td>
+
+              <td>Thiruvallur</td>
+                            <td>
+                2.49
+              </td>
+                          <td>
+                2.47
+              </td>
+                          <td>
+                2.68
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>17</td>
+              <td>Tamil Nadu</td>
+
+              <td>Theni</td>
+                            <td>
+                2.67
+              </td>
+                          <td>
+                2.39
+              </td>
+                          <td>
+                2.49
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>18</td>
+              <td>Tamil Nadu</td>
+
+              <td>Salem</td>
+                            <td>
+                2.58
+              </td>
+                          <td>
+                2.48
+              </td>
+                          <td>
+                2.66
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>19</td>
+              <td>Tamil Nadu</td>
+
+              <td>Tirunelveli</td>
+                            <td>
+                1.60
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                2.60
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>20</td>
+              <td>Tamil Nadu</td>
+
+              <td>Namakkal</td>
+                            <td>
+                2.59
+              </td>
+                          <td>
+                2.50
+              </td>
+                          <td>
+                2.42
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>21</td>
+              <td>Tamil Nadu</td>
+
+              <td>Perambalur</td>
+                            <td>
+                2.42
+              </td>
+                          <td>
+                2.47
+              </td>
+                          <td>
+                2.52
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>22</td>
+              <td>Tamil Nadu</td>
+
+              <td>Erode</td>
+                            <td>
+                2.33
+              </td>
+                          <td>
+                2.45
+              </td>
+                          <td>
+                2.52
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>23</td>
+              <td>Tamil Nadu</td>
+
+              <td>Ranipet</td>
+                            <td>
+                2.47
+              </td>
+                          <td>
+                1.97
+              </td>
+                          <td>
+                2.51
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>24</td>
+              <td>Tamil Nadu</td>
+
+              <td>Tiruchirappalli</td>
+                            <td>
+                2.42
+              </td>
+                          <td>
+                2.45
+              </td>
+                          <td>
+                2.44
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>25</td>
+              <td>Tamil Nadu</td>
+
+              <td>Tiruppur</td>
+                            <td>
+                2.44
+              </td>
+                          <td>
+                2.44
+              </td>
+                          <td>
+                2.43
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>26</td>
+              <td>Tamil Nadu</td>
+
+              <td>Pudukkottai</td>
+                            <td>
+                2.11
+              </td>
+                          <td>
+                2.27
+              </td>
+                          <td>
+                2.43
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>27</td>
+              <td>Tamil Nadu</td>
+
+              <td>Coimbatore</td>
+                            <td>
+                2.30
+              </td>
+                          <td>
+                2.41
+              </td>
+                          <td>
+                2.42
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>28</td>
+              <td>Tamil Nadu</td>
+
+              <td>Dindigul</td>
+                            <td>
+                1.95
+              </td>
+                          <td>
+                2.35
+              </td>
+                          <td>
+                2.22
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>29</td>
+              <td>Tamil Nadu</td>
+
+              <td>Karur</td>
+                            <td>
+                1.92
+              </td>
+                          <td>
+                2.32
+              </td>
+                          <td>
+                2.26
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>30</td>
+              <td>Tamil Nadu</td>
+
+              <td>Kallakurichi</td>
+                            <td>
+                2.20
+              </td>
+                          <td>
+                1.64
+              </td>
+                          <td>
+                1.68
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>31</td>
+              <td>Tamil Nadu</td>
+
+              <td>Thoothukudi</td>
+                            <td>
+                1.19
+              </td>
+                          <td>
+                2.10
+              </td>
+                          <td>
+                1.86
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>32</td>
+              <td>Tamil Nadu</td>
+
+              <td>Thanjavur</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                2.00
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>33</td>
+              <td>Tamil Nadu</td>
+
+              <td>Ramanathapuram</td>
+                            <td>
+                1.79
+              </td>
+                          <td>
+                1.59
+              </td>
+                          <td>
+                0.40
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>34</td>
+              <td>Tamil Nadu</td>
+
+              <td>Kanchipuram</td>
+                            <td>
+                1.00
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+            
+      </tbody>
+    </table>
