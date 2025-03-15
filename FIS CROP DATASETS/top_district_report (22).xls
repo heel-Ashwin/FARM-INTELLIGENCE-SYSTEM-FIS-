@@ -1,0 +1,633 @@
+ <table border="2px" id="apyreport" class="table table-hover table-bordered text-center">
+      <thead>
+        <tr>
+          <th colspan="6"><p class=""><strong>Crop: <span id="selcrop">Coconut</span></strong></p></th>
+        </tr>
+        <tr>
+          <th rowspan="2">S.No.</th>
+          <th rowspan="2">State</th>
+          <th rowspan="2">District</th>
+                    <th rowspan="">2020 - 2021</th>
+                  <th rowspan="">2021 - 2022</th>
+                  <th rowspan="">2022 - 2023</th>
+        
+        </tr>
+        <tr>
+                    <th rowspan="">Yield             (Nuts/Hectare)          </th>
+                  <th rowspan="">Yield             (Nuts/Hectare)          </th>
+                  <th rowspan="">Yield             (Nuts/Hectare)          </th>
+                </tr>
+      </thead>
+
+      <tbody>
+                    <tr>
+
+              <td>1</td>
+              <td>Tamil Nadu</td>
+
+              <td>Madurai</td>
+                            <td>
+                11,946.95
+              </td>
+                          <td>
+                13,415.69
+              </td>
+                          <td>
+                24,419.05
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>2</td>
+              <td>Tamil Nadu</td>
+
+              <td>Sivaganga</td>
+                            <td>
+                8,664.89
+              </td>
+                          <td>
+                11,750.35
+              </td>
+                          <td>
+                21,526.92
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>3</td>
+              <td>Tamil Nadu</td>
+
+              <td>Thanjavur</td>
+                            <td>
+                14,416.20
+              </td>
+                          <td>
+                12,485.05
+              </td>
+                          <td>
+                19,800.07
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>4</td>
+              <td>Tamil Nadu</td>
+
+              <td>Tiruchirappalli</td>
+                            <td>
+                10,441.93
+              </td>
+                          <td>
+                10,532.66
+              </td>
+                          <td>
+                17,492.08
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>5</td>
+              <td>Tamil Nadu</td>
+
+              <td>Thiruvallur</td>
+                            <td>
+                6,102.64
+              </td>
+                          <td>
+                7,001.52
+              </td>
+                          <td>
+                17,226.28
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>6</td>
+              <td>Tamil Nadu</td>
+
+              <td>Chennai</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                17,105.26
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>7</td>
+              <td>Tamil Nadu</td>
+
+              <td>Tirupathur</td>
+                            <td>
+                11,214.17
+              </td>
+                          <td>
+                10,498.96
+              </td>
+                          <td>
+                15,878.03
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>8</td>
+              <td>Tamil Nadu</td>
+
+              <td>Coimbatore</td>
+                            <td>
+                14,962.64
+              </td>
+                          <td>
+                13,564.34
+              </td>
+                          <td>
+                15,523.53
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>9</td>
+              <td>Tamil Nadu</td>
+
+              <td>Vellore</td>
+                            <td>
+                15,339.27
+              </td>
+                          <td>
+                13,430.72
+              </td>
+                          <td>
+                12,635.71
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>10</td>
+              <td>Tamil Nadu</td>
+
+              <td>Theni</td>
+                            <td>
+                12,106.62
+              </td>
+                          <td>
+                13,460.18
+              </td>
+                          <td>
+                15,300.59
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>11</td>
+              <td>Tamil Nadu</td>
+
+              <td>Kallakurichi</td>
+                            <td>
+                8,224.08
+              </td>
+                          <td>
+                11,677.93
+              </td>
+                          <td>
+                15,174.87
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>12</td>
+              <td>Tamil Nadu</td>
+
+              <td>Namakkal</td>
+                            <td>
+                15,083.39
+              </td>
+                          <td>
+                14,151.69
+              </td>
+                          <td>
+                14,811.49
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>13</td>
+              <td>Tamil Nadu</td>
+
+              <td>Dindigul</td>
+                            <td>
+                12,503.47
+              </td>
+                          <td>
+                14,147.95
+              </td>
+                          <td>
+                15,024.78
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>14</td>
+              <td>Tamil Nadu</td>
+
+              <td>Salem</td>
+                            <td>
+                14,842.08
+              </td>
+                          <td>
+                14,254.91
+              </td>
+                          <td>
+                14,332.67
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>15</td>
+              <td>Tamil Nadu</td>
+
+              <td>Pudukkottai</td>
+                            <td>
+                9,869.75
+              </td>
+                          <td>
+                11,167.39
+              </td>
+                          <td>
+                14,790.15
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>16</td>
+              <td>Tamil Nadu</td>
+
+              <td>Erode</td>
+                            <td>
+                11,821.76
+              </td>
+                          <td>
+                12,486.96
+              </td>
+                          <td>
+                14,677.18
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>17</td>
+              <td>Tamil Nadu</td>
+
+              <td>Mayiladuthurai</td>
+                            <td>
+                11,083.12
+              </td>
+                          <td>
+                11,703.51
+              </td>
+                          <td>
+                14,643.80
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>18</td>
+              <td>Tamil Nadu</td>
+
+              <td>Thiruvarur</td>
+                            <td>
+                12,120.19
+              </td>
+                          <td>
+                14,459.07
+              </td>
+                          <td>
+                8,052.78
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>19</td>
+              <td>Tamil Nadu</td>
+
+              <td>Tiruvannamalai</td>
+                            <td>
+                10,843.37
+              </td>
+                          <td>
+                11,778.03
+              </td>
+                          <td>
+                14,311.27
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>20</td>
+              <td>Tamil Nadu</td>
+
+              <td>Krishnagiri</td>
+                            <td>
+                13,415.53
+              </td>
+                          <td>
+                12,762.02
+              </td>
+                          <td>
+                14,121.82
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>21</td>
+              <td>Tamil Nadu</td>
+
+              <td>Ranipet</td>
+                            <td>
+                11,407.25
+              </td>
+                          <td>
+                12,693.16
+              </td>
+                          <td>
+                14,051.97
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>22</td>
+              <td>Tamil Nadu</td>
+
+              <td>Virudhunagar</td>
+                            <td>
+                11,395.70
+              </td>
+                          <td>
+                10,492.29
+              </td>
+                          <td>
+                14,008.20
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>23</td>
+              <td>Tamil Nadu</td>
+
+              <td>Villupuram</td>
+                            <td>
+                10,822.00
+              </td>
+                          <td>
+                12,543.35
+              </td>
+                          <td>
+                13,800.21
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>24</td>
+              <td>Tamil Nadu</td>
+
+              <td>Tiruppur</td>
+                            <td>
+                6,676.51
+              </td>
+                          <td>
+                9,749.99
+              </td>
+                          <td>
+                13,330.88
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>25</td>
+              <td>Tamil Nadu</td>
+
+              <td>Dharmapuri</td>
+                            <td>
+                10,657.89
+              </td>
+                          <td>
+                11,559.73
+              </td>
+                          <td>
+                13,234.73
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>26</td>
+              <td>Tamil Nadu</td>
+
+              <td>Ariyalur</td>
+                            <td>
+                12,422.36
+              </td>
+                          <td>
+                12,576.69
+              </td>
+                          <td>
+                10,802.47
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>27</td>
+              <td>Tamil Nadu</td>
+
+              <td>The nilgiris</td>
+                            <td>
+                7,547.17
+              </td>
+                          <td>
+                7,547.17
+              </td>
+                          <td>
+                11,764.71
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>28</td>
+              <td>Tamil Nadu</td>
+
+              <td>Karur</td>
+                            <td>
+                10,579.35
+              </td>
+                          <td>
+                9,740.08
+              </td>
+                          <td>
+                11,702.41
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>29</td>
+              <td>Tamil Nadu</td>
+
+              <td>Cuddalore</td>
+                            <td>
+                11,057.40
+              </td>
+                          <td>
+                11,337.73
+              </td>
+                          <td>
+                8,976.56
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>30</td>
+              <td>Tamil Nadu</td>
+
+              <td>Thenkasi</td>
+                            <td>
+                9,438.01
+              </td>
+                          <td>
+                10,903.74
+              </td>
+                          <td>
+                8,875.25
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>31</td>
+              <td>Tamil Nadu</td>
+
+              <td>Kanniyakumari</td>
+                            <td>
+                9,379.18
+              </td>
+                          <td>
+                6,371.58
+              </td>
+                          <td>
+                7,520.33
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>32</td>
+              <td>Tamil Nadu</td>
+
+              <td>Tirunelveli</td>
+                            <td>
+                6,526.51
+              </td>
+                          <td>
+                8,719.49
+              </td>
+                          <td>
+                9,194.06
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>33</td>
+              <td>Tamil Nadu</td>
+
+              <td>Ramanathapuram</td>
+                            <td>
+                4,683.42
+              </td>
+                          <td>
+                6,096.21
+              </td>
+                          <td>
+                9,119.63
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>34</td>
+              <td>Tamil Nadu</td>
+
+              <td>Nagapattinam</td>
+                            <td>
+                9,001.14
+              </td>
+                          <td>
+                6,486.29
+              </td>
+                          <td>
+                9,074.01
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>35</td>
+              <td>Tamil Nadu</td>
+
+              <td>Perambalur</td>
+                            <td>
+                8,059.21
+              </td>
+                          <td>
+                8,988.76
+              </td>
+                          <td>
+                4,566.93
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>36</td>
+              <td>Tamil Nadu</td>
+
+              <td>Kanchipuram</td>
+                            <td>
+                6,250.00
+              </td>
+                          <td>
+                6,390.33
+              </td>
+                          <td>
+                8,403.36
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>37</td>
+              <td>Tamil Nadu</td>
+
+              <td>Thoothukudi</td>
+                            <td>
+                5,095.03
+              </td>
+                          <td>
+                7,904.95
+              </td>
+                          <td>
+                6,697.70
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>38</td>
+              <td>Tamil Nadu</td>
+
+              <td>Chengalpattu</td>
+                            <td>
+                3,397.03
+              </td>
+                          <td>
+                4,203.01
+              </td>
+                          <td>
+                4,414.74
+              </td>
+                        </tr>
+            
+      </tbody>
+    </table>
